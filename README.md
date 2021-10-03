@@ -43,6 +43,10 @@ and Weekday-Starttime data plus the Number to String data for the gender.
 -Unknown weekend numbers are higher 
 -Tuesday, Thursday and Friday for Subscriber rentals are the busiest
 
+Storyboard
+https://public.tableau.com/app/profile/steve.king3394/viz/bikedataStoryDeliverable3/Story1?publish=yes
+
+
 ### Summary
 In finalization I would recommend a bikesharing startup in Des Moines and focus your marketing toward Males and have
 bikes ready for rental during the peak weekday times of 7am to 9am and 5pm to 7pm. If there are alot of visitors
